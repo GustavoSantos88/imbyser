@@ -666,7 +666,7 @@ link:focus,
     padding: 15px;
     color: rgba(255, 255, 255, 0.5);
     border: 0;
-    font-size: 30px;
+    font-size: 40px;
     transition: all linear 0.2s;
     background: transparent;
 }
@@ -676,7 +676,7 @@ link:focus,
 }
 .hero-slider .prevArrow:hover,
 .hero-slider .nextArrow:hover {
-    color: #0056b3;
+    color: #fff;
 }
 .hero-slider .prevArrow {
     right: 60px;
@@ -861,7 +861,7 @@ link:focus,
 /* /teacher */
 /* footer */
 .newsletter {
-    background-image: linear-gradient(to right, transparent 50%, #ffbc3b 50%);
+    background-image: linear-gradient(to right, transparent 50%, #0056b3 50%);
     margin-bottom: -170px;
     position: relative;
     z-index: 1;
@@ -921,9 +921,9 @@ link:focus,
 }
 .filter-controls li.active {
     font-weight: 600;
-    color: #ffbc3b;
+    color: #0056b3;
 }
 .filter-controls li:hover {
-    color: #ffbc3b;
+    color: #0056b3;
 }
 /*# sourceMappingURL=style.css.map */
